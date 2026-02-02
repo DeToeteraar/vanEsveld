@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="520" viewBox="0 0 600 520" role="img" aria-label="Workflow Inhaaltoetsproces">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6c757d"/></marker></defs>
+<title>Workflow Inhaaltoetsproces</title>
+<rect x="80.0" y="40" width="440" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="4"/>
+<text x="300.0" y="65" text-anchor="middle" font-size="12" fill="#212529">Gemiste toets signaleren</text>
+<line x1="300.0" y1="80" x2="300.0" y2="120" stroke="#6c757d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="80.0" y="120" width="440" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="4"/>
+<text x="300.0" y="145" text-anchor="middle" font-size="12" fill="#212529">Afstemming met leerling</text>
+<line x1="300.0" y1="160" x2="300.0" y2="200" stroke="#6c757d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="80.0" y="200" width="440" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="4"/>
+<text x="300.0" y="225" text-anchor="middle" font-size="12" fill="#212529">Inhaalmoment plannen</text>
+<line x1="300.0" y1="240" x2="300.0" y2="280" stroke="#6c757d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="80.0" y="280" width="440" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="4"/>
+<text x="300.0" y="305" text-anchor="middle" font-size="12" fill="#212529">Inhaaltoets afnemen</text>
+<line x1="300.0" y1="320" x2="300.0" y2="360" stroke="#6c757d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="80.0" y="360" width="440" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="4"/>
+<text x="300.0" y="385" text-anchor="middle" font-size="12" fill="#212529">Nakijken</text>
+<line x1="300.0" y1="400" x2="300.0" y2="440" stroke="#6c757d" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="80.0" y="440" width="440" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="4"/>
+<text x="300.0" y="465" text-anchor="middle" font-size="12" fill="#212529">Registratie & terugkoppeling</text>
+</svg>
